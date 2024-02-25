@@ -1,5 +1,4 @@
-IP Resolver Commenter Burp Extension
-Overview
+
 The IP Resolver Commenter is a Burp Suite extension written in Python designed to enhance your Intruder analysis by appending resolved IP addresses to the comments field of each request. This integration allows users to quickly reference the IP addresses associated with each hostname directly within the Intruder tab, facilitating a more informed and efficient analysis process without leaving the Burp Suite environment.
 
 Features
