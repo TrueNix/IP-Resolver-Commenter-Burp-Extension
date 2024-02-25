@@ -18,7 +18,7 @@ This Python-powered Burp Suite extension automatically injects resolved IP addre
 ### ⬇️ Installation Steps:
 
 1. **Verify Jython:** Ensure Jython is properly installed and configured within your Burp Suite environment.
-2. **Grab the Script:** Download the IP Resolver Commenter script from the GitHub repository link here!: [Replace with your actual GitHub repository URL]
+2. **Grab the Script:** Download the IP Resolver Commenter script from the GitHub repository link here!: [https://github.com/TrueNix/IP-Resolver-Commenter-Burp-Extension]
 3. **Navigate to Extensions:** In Burp Suite, head to the **Extender** tab > **Extensions** sub-tab.
 4. **Add the Extension:** Click **Add**, select **Python** as the extension type, and choose the downloaded script.
 
